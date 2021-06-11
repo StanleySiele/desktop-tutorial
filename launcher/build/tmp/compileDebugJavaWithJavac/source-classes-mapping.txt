@@ -1,0 +1,2 @@
+com/DefaultCompany/NewUnityProject/BuildConfig.java
+ com.DefaultCompany.NewUnityProject.BuildConfig
